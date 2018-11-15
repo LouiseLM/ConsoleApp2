@@ -8,7 +8,6 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World! Nice to meet you! My name is ...");
             Console.WriteLine("Mit navn er <navn>");
-                        Console.WriteLine("Mit navn er <navn>");
         }
     }
 }
